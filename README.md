@@ -84,7 +84,7 @@ Fully automatic. Every single time.
 
 ## Workflow Screenshot
 
-![Telegram Lead Capture Workflow](screenshots/workflow-screenshot.png)
+![Telegram Lead Capture Workflow](new1.png)
 
 ---
 
