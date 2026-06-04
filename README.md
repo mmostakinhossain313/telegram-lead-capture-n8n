@@ -237,6 +237,6 @@ Message me on Fiverr or Upwork.
 Tell me about your business.
 I will tell you exactly how I can help.
 
-Response time: under 2 hours.
+Response time: under 1 hours.
 
 I look forward to working with you.
