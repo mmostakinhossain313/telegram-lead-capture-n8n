@@ -186,9 +186,7 @@ Yes. Set it up once. It runs forever.
 
 You can import this workflow directly into your n8n.
 
-1. Download the file here:
-[telegram-lead-capture.json](files/telegram-lead-capture.json)
-
+1. Download json
 2. Open n8n
 3. Click Import Workflow
 4. Upload the JSON file
